@@ -2,6 +2,10 @@
 
 This is a web app that uses a Convolutional Neural Network (CNN) to recognize handwritten digits drawn on a canvas.
 
+## Demo
+
+![Digit Recognizer Demo](assets/demo.gif)
+
 ## Features
 - Draw digits with your mouse or touchscreen
 - Real-time digit prediction powered by TensorFlow
@@ -51,6 +55,8 @@ This is a web app that uses a Convolutional Neural Network (CNN) to recognize ha
 
 ```
 digit_recognizer/
+├── assets/
+│   └── demo.gif
 ├── static/
 │   ├── script.js
 │   └── style.css
