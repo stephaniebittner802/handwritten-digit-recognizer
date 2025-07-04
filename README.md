@@ -8,8 +8,7 @@ This is a web app that uses a Convolutional Neural Network (CNN) to recognize ha
 
 ## Features
 - Draw digits with your mouse or touchscreen
-- Real-time digit prediction powered by TensorFlow
-- Clean, mobile-friendly interface
+- Digit prediction powered by TensorFlow
 - Trained on the MNIST dataset
 
 ## Tech Stack
